@@ -1,29 +1,33 @@
 body {
-    background-color: #f2f2f2;
-    font-family: Arial, sans-serif;
+    background-color: #d13535;
+    font-family: 'Times New Roman';
 }
 
 .login-container {
     width: 300px;
-    background: white;
+    background: pink;
     padding: 20px;
     margin: 100px auto;
     border-radius: 8px;
+     box-shadow: 0 10px 25px;
 }
 
 .login-container h2 {
     text-align: center;
+    font-family: 'Times New Roman';
 }
 
 .login-container label {
     display: block;
     margin-top: 10px;
+    font-family: 'Times New Roman';
 }
 
 .login-container input {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
+    border: 1px solid #d88585;
 }
 
 .login-container button {
